@@ -66,5 +66,9 @@ The primary objective is to develop an accessible, AI-assisted platform that bri
 
 ## Team
 
-**Project Team:** ZENITH404  
+**Project Team:** ZENITH404
+Nihira Hassan-PES2UG24AM106
+P Mahema Sai-PES2UG24AM107
+Nanditha A-PES2UG24AM100
+Namitha N Reddy-PES2UG24AM098
 **Project:** AI-Based Legal Assistant
